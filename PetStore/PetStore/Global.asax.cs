@@ -5,6 +5,8 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
+using PetStore.Models;
+using System.Data.Entity;
 
 namespace PetStore
 {
